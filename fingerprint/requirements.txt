@@ -1,0 +1,8 @@
+flask
+celery[redis]
+ffmpeg-python
+imagehash
+Pillow
+librosa
+numpy
+elasticsearch
